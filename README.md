@@ -42,6 +42,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Restoring my mountain bike](https://jacopocanton.com/blog/bike02/)
+- [Building an electric guitar](https://jacopocanton.com/blog/guitar/)
+- [Restoring my steel racing bike](https://jacopocanton.com/blog/bike01/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jacopocanton.com/posts/)
