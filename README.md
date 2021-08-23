@@ -19,11 +19,11 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="Python"   height="26px" src="https://vorillaz.github.io/devicons/!SVG/python.svg" />](https://vorillaz.github.io/devicons/#/singleicon/python)
+[<img align="left" alt="Python"   height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://vorillaz.github.io/devicons/#/singleicon/python)
 [<img align="left" alt="Fortran"  height="26px" src="https://simpleicons.org/icons/fortran.svg" />](https://simpleicons.org/?q=fortran)
-[<img align="left" alt="Git"      height="26px" src="https://vorillaz.github.io/devicons/!SVG/git.svg" />](https://vorillaz.github.io/devicons/#/singleicon/git)
-[<img align="left" alt="GitHub"   height="26px" src="https://vorillaz.github.io/devicons/!SVG/github_badge.svg" />](https://vorillaz.github.io/devicons/#/singleicon/github_badge)
-[<img align="left" alt="Terminal" height="26px" src="https://vorillaz.github.io/devicons/!SVG/terminal.svg" />](https://vorillaz.github.io/devicons/#/singleicon/terminal)
+[<img align="left" alt="Git"      height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://vorillaz.github.io/devicons/#/singleicon/git)
+[<img align="left" alt="GitHub"   height="26px" src="https://simpleicons.org/icons/github.svg" />](https://vorillaz.github.io/devicons/#/singleicon/github_badge)
+[<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />](https://vorillaz.github.io/devicons/#/singleicon/terminal)
 [<img align="left" alt="Vim"      height="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Vim.svg" />](https://www.vim.org/)
 [<img align="left" alt="Cosmo"    height="26px" src="http://www.cosmo-model.org/favicon.ico" />](http://www.cosmo-model.org/)
 [<img align="left" alt="nek5000"  height="26px" src="https://avatars.githubusercontent.com/u/11303440?s=200&v=4" />](https://nek5000.mcs.anl.gov/)
@@ -35,9 +35,11 @@
 
 Here are my public GitHub stats.
 Unfortunately most of the repositories I work on are private, either in organizations
+
 [<img align="left" alt="MeteoSwiss" height="26px" src="https://avatars.githubusercontent.com/u/15251199?s=200&v=4" />](https://github.com/MeteoSwiss-APN)
 [<img align="left" alt="C2SM"       height="26px" src="https://avatars.githubusercontent.com/u/13691276?s=200&v=4" />](https://github.com/C2SM-RCM)
 [<img align="left" alt="CosmoOrg"   height="26px" src="https://avatars.githubusercontent.com/u/34743401?s=200&v=4" />](https://github.com/COSMO-ORG)
+
 or on other gitlabs, so those are not counted.
 
 ![Jacopo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcanton&count_private=true&show_icons=true)
