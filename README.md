@@ -44,7 +44,7 @@ or on other gitlabs, so those are not counted.
 
 ![Jacopo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcanton&count_private=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcanton&layout=compact&exclude_repo=jcanton.github.io&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcanton&layout=compact&exclude_repo=jcanton.github.io)
 
 ---
 
