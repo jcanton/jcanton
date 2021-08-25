@@ -51,6 +51,7 @@ or on other gitlabs, so those are not counted.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automated GPX maps](https://jacopocanton.com/blog/garminMaps/)
 - [Restoring my mountain bike](https://jacopocanton.com/blog/bike02/)
 - [Building an electric guitar](https://jacopocanton.com/blog/guitar/)
 - [Restoring my steel racing bike](https://jacopocanton.com/blog/bike01/)
