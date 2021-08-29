@@ -24,8 +24,9 @@
 [<img src="https://img.shields.io/badge/Git-E84125?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/linux-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>](https://www.linux.org/)
 [<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>](https://www.vim.org)
-[<img align="left" alt="Cosmo"    height="26px" src="http://www.cosmo-model.org/favicon.ico" />](http://www.cosmo-model.org/)
-[<img align="left" alt="nek5000"  height="26px" src="https://avatars.githubusercontent.com/u/11303440?s=200&v=4" />](https://nek5000.mcs.anl.gov/)
+<br />
+[<img alt="Cosmo"    height="26px" src="http://www.cosmo-model.org/favicon.ico" />](http://www.cosmo-model.org/)
+[<img alt="nek5000"  height="26px" src="https://avatars.githubusercontent.com/u/11303440?s=200&v=4" />](https://nek5000.mcs.anl.gov/)
 
 <br />
 <br />
