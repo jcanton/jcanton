@@ -19,12 +19,11 @@
 
 ### Languages and Tools
 
-[<img align="left" alt="Python"   height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://vorillaz.github.io/devicons/#/singleicon/python)
-[<img align="left" alt="Fortran"  height="26px" src="https://simpleicons.org/icons/fortran.svg" />](https://simpleicons.org/?q=fortran)
-[<img align="left" alt="Git"      height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://vorillaz.github.io/devicons/#/singleicon/git)
-[<img align="left" alt="GitHub"   height="26px" src="https://simpleicons.org/icons/github.svg" />](https://vorillaz.github.io/devicons/#/singleicon/github_badge)
-[<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />](https://vorillaz.github.io/devicons/#/singleicon/terminal)
-[<img align="left" alt="Vim"      height="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon-Vim.svg" />](https://www.vim.org/)
+[<img src="https://img.shields.io/badge/Python-3B6F9E?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org/>)
+[<img src="https://img.shields.io/badge/Fortran-14354C?style=for-the-badge&logo=fortran&logoColor=white"/>](https://fortran-lang.org/)
+[<img src="https://img.shields.io/badge/Git-E84125?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/)
+[<img src="https://img.shields.io/badge/linux-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>](https://www.linux.org/)
+[<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>](https://www.vim.org)
 [<img align="left" alt="Cosmo"    height="26px" src="http://www.cosmo-model.org/favicon.ico" />](http://www.cosmo-model.org/)
 [<img align="left" alt="nek5000"  height="26px" src="https://avatars.githubusercontent.com/u/11303440?s=200&v=4" />](https://nek5000.mcs.anl.gov/)
 
