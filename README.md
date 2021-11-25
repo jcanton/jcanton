@@ -4,9 +4,8 @@
 
 ## I'm an engineer, coder and tinkerer
 
-- 🔭 I'm currently a post-doctoral researcher at [ETH Zurich](https://iac.ethz.ch/group/climate-and-water-cycle.html)
-- 🌱 I’m currently learning about clouds and climate
-- 🥅 2021 Goals: get a permanent job 🤣
+- 🔭 I'm currently a researcher at [ETH Zurich](https://iac.ethz.ch/group/climate-and-water-cycle.html)
+- 🌱 I’m learning about clouds and climate change, kotlin and android development
 - ⚡ Fun facts: I love running and playing guitar
 
 ### Connect with me
@@ -19,14 +18,17 @@
 
 ### Languages and Tools
 
-[<img src="https://img.shields.io/badge/Python-3B6F9E?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org/>)
+https://img.shields.io/badge/Kotlin-784CF5?style=for-the-badge&logo=kotlin&logoColor=white
+[<img src="https://img.shields.io/badge/Kotlin-784CF5?style=for-the-badge&logo=kotlin&logoColor=white"/>](https://kotlinlang.org/)
+[<img src="https://img.shields.io/badge/Python-3B6F9E?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Fortran-14354C?style=for-the-badge&logo=fortran&logoColor=white"/>](https://fortran-lang.org/)
 [<img src="https://img.shields.io/badge/Git-E84125?style=for-the-badge&logo=git&logoColor=white"/>](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/linux-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>](https://www.linux.org/)
 [<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>](https://www.vim.org)
 <br />
-[<img alt="Cosmo"    height="26px" src="http://www.cosmo-model.org/favicon.ico" />](http://www.cosmo-model.org/)
-[<img alt="nek5000"  height="26px" src="https://avatars.githubusercontent.com/u/11303440?s=200&v=4" />](https://nek5000.mcs.anl.gov/)
+[<img alt="AndroidStudio" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" />](https://developer.android.com/studio)
+[<img alt="Cosmo"         height="26px" src="http://www.cosmo-model.org/favicon.ico" />](http://www.cosmo-model.org/)
+[<img alt="nek5000"       height="26px" src="https://avatars.githubusercontent.com/u/11303440?s=200&v=4" />](https://nek5000.mcs.anl.gov/)
 
 <br />
 <br />
