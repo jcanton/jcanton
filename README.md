@@ -18,7 +18,6 @@
 
 ### Languages and Tools
 
-https://img.shields.io/badge/Kotlin-784CF5?style=for-the-badge&logo=kotlin&logoColor=white
 [<img src="https://img.shields.io/badge/Kotlin-784CF5?style=for-the-badge&logo=kotlin&logoColor=white"/>](https://kotlinlang.org/)
 [<img src="https://img.shields.io/badge/Python-3B6F9E?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org/)
 [<img src="https://img.shields.io/badge/Fortran-14354C?style=for-the-badge&logo=fortran&logoColor=white"/>](https://fortran-lang.org/)
